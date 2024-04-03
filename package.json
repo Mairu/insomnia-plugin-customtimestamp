@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-customtimestamp",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Create a custom timestamp in insomnia rest client",
   "main": "index.js",
   "insomnia": {
@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/Gabb1995/insomnia-plugin-customtimestamp#readme",
   "dependencies": {
-    "moment": "^2.23.0"
+    "moment": "^2.30.1"
   }
 }
